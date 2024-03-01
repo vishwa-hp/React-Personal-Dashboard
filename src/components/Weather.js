@@ -74,7 +74,7 @@ function GfGWeatherApp() {
 
 	return (
 		<div className="App">
-			
+			<h1>Find Weather Of your City</h1>
 			<div className="search-bar">
 				<input
 					type="text"
