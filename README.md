@@ -43,6 +43,8 @@ The application uses CSS for styling. Basic styles are provided in the `App.css`
 
 - State management is done using React hooks.
 - The application is responsive and works on both desktop and mobile devices.
+  
+- https://github.com/vishwa-hp/React-Personal-Dashboard/blob/main/Demo.gif
 
 
 
